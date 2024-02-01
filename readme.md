@@ -1,4 +1,4 @@
-# My Coding Projects Showcase
+# Web Development Projects Showcase
 
 ## Koeda Consulting Website Redesign 
 ![Koeda Consulting Website Redesign](examples/esim1.png)
