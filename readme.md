@@ -16,6 +16,7 @@ Description: ATK-YTP event website as a member of the development team.
 
 ## Opiskelijaruokalistat
 ![Project 3](examples/esim3.png)
+
 Description: A website to make it easier for users to find out which student restaurant to visit for lunch, without having to visit every restaurant's homepage
 
 
